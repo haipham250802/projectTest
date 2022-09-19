@@ -1,0 +1,132 @@
+
+Boy.png
+size: 344,232
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bag1
+  rotate: false
+  xy: 291, 182
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+Bag2
+  rotate: false
+  xy: 230, 18
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+Balo
+  rotate: false
+  xy: 166, 116
+  size: 124, 116
+  orig: 124, 116
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 166, 39
+  size: 63, 76
+  orig: 63, 76
+  offset: 0, 0
+  index: -1
+Eyes_fish_red
+  rotate: false
+  xy: 64, 7
+  size: 19, 5
+  orig: 19, 5
+  offset: 0, 0
+  index: -1
+FIsh_red
+  rotate: false
+  xy: 49, 30
+  size: 60, 76
+  orig: 60, 76
+  offset: 0, 0
+  index: -1
+Fish_green
+  rotate: false
+  xy: 110, 53
+  size: 55, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+Green_Fish_sleep
+  rotate: false
+  xy: 110, 0
+  size: 54, 52
+  orig: 54, 52
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 165, 0
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: false
+  xy: 309, 104
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 230, 66
+  size: 78, 49
+  orig: 78, 49
+  offset: 0, 0
+  index: -1
+Hip
+  rotate: false
+  xy: 49, 13
+  size: 50, 16
+  orig: 50, 16
+  offset: 0, 0
+  index: -1
+LowerLeg_R
+  rotate: false
+  xy: 274, 18
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+Mouth_fish
+  rotate: false
+  xy: 49, 2
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+Rope
+  rotate: false
+  xy: 0, 1
+  size: 48, 231
+  orig: 48, 231
+  offset: 0, 0
+  index: -1
+UpperLeg_L
+  rotate: false
+  xy: 291, 141
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+UpperLeg_R
+  rotate: false
+  xy: 305, 31
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+fishing rod
+  rotate: false
+  xy: 49, 107
+  size: 116, 125
+  orig: 116, 125
+  offset: 0, 0
+  index: -1
